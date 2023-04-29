@@ -1,0 +1,32 @@
+<skills>
+<name>Базовая теория</name>
+<name>Что такое клиент-серверная архитектура</name>
+<name>HTTP Методы запросов на сервер</name>
+<name>Коды ответов HTTP сервера</name>
+<name>Структуры HTTP запросов и ответов</name>
+<name>Что такое JSON, XML. Их структура</name>
+<name>Тестирование API через Postman</name>
+<name>Снятие и чтение логов c внешнего сервера</name>
+<name>Снифинг http web трафика через Charles и Fiddler</name>
+<name>Dev Tools веб браузеров (Google Chrome, FireFox)</name>
+<name>Как работает VPN, Зачем нужен VPN, Как использовать VPN, Варианты инструментов VPN</name>
+<name>Мобильное тестирование</name>
+<name>Особенность iOS, Android, гайдлайны</name>
+<name>Сборка iOS приложений на XCode</name>
+<name>Сборка Android приложений на Android Studio</name>
+<name>ADB (управление андройд девайсами)</name>
+<name>Настройка прокси и vpn на iOS и Android</name>
+<name>Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android</name>
+<name>Командная строка Linux, Копирование файлов на серверах без графического интерфейса, Создание файлов на серверах без графического интерфейса, Просмотр файлов на серверах без графического интерфейса</name>
+<name>Основы bash скриптинг, автоматизация рутинных задач на сервере</name>
+<name>Доступ к удалённым серверам</name>
+<name>Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</name>
+<name>База данных Postgres (установка, настройка и использование)</name>
+<name>Нереляционная база данных Redis (установка, настройка и использование)</name>
+<name>Нагрузочное тестирование в Jmeter</name>
+<name>Методология разработки Scrum</name>
+<name>Python. Изучение основ. Создание клиент серверного приложения</name>
+</skills>
+
+
+
