@@ -1,1 +1,15 @@
-
+<bug_report>
+</title>Навигация по содержанию во вкладке 'Terms and Policies' при нажатии на заголовок пролистывает в позицию ниже требуемого</title>
+<enviroment>Win 11 Pro, Chrome Version 112</enviroment>
+<severity>Minor<severity>
+<steps>
+<steps number="1">Перейти на сайт website.com</steps>
+<steps number="2">Опуститься в конец сайта</steps>
+<steps number="3">В правом нижнем углу выбрать 'Terms and Policies'</steps>
+<steps number="4">Выбрать из содержания 'SV Investments Limited (CySEC)'</steps>
+<steps number="5">Аналогично со следующими элементами содержания</steps>
+</steps>
+<expected result>При выборе заголовка из содержания 'SV Investments Limited (CySEC)', страница пролистывается на позицую заголовка, аналогично и с другими заголовками</expected result>
+<Actual Result>При выборе заголовка из содержания 'SV Investments Limited (CySEC)', страница пролистывается ниже заголовка, аналогично и с другими заголовками</Actual Result>
+<License>SCB, CYSEC, FCA</License>
+</bug_report>
